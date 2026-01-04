@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Ready set glow",
+  "base_artist": "ぶいすぽっ！、夜乃くろむ",
+  "createdAt": "2026-01-04T12:10:18.860875Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ready set glow",
+      "artist": "ぶいすぽっ!、夜乃くろむ",
+      "has_synced": false,
+      "path": "select/pl_01_Ready_set_glow_ぶいすぽっ!、夜乃くろむ.txt"
+    }
+  ]
+}
